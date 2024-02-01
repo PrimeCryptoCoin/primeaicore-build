@@ -31,9 +31,9 @@ primeaicoreTasks('submodule', {skipBrowsers: true});
 
 ## Contributing
 
-See [CONTRIBUTING.md](https://github.com/PrimeAI/primeaicore) on the main primeaicore repo for information about how to contribute.
+See [CONTRIBUTING.md](https://github.com/PrimeCryptoCoin/primeaicore-lib) on the main primeaicore repo for information about how to contribute.
 
 ## License
 
-Code released under [the MIT license](https://github.com/PrimeAI/primeaicore/blob/master/LICENSE).
+Code released under [the MIT license](https://github.com/PrimeCryptoCoin/primeaicore-lib/blob/master/LICENSE).
 

@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git://github.com/PrimeAI/primeaicore-build"
+    "url": "git://github.com/PrimeCryptoCoin/primeaicore-build"
   },
   "keywords": [
     "primeaicore"
@@ -21,9 +21,9 @@
   ],
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/PrimeAI/primeaicore-build/issues"
+    "url": "https://github.com/PrimeCryptoCoin/primeaicore-build/issues"
   },
-  "homepage": "https://github.com/PrimeAI/primeaicore-build",
+  "homepage": "https://github.com/PrimeCryptoCoin/primeaicore-build",
   "dependencies": {
     "brfs": "^1.4.3",
     "browserify": "^13.1.1",
